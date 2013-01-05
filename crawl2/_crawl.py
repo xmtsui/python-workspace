@@ -1,5 +1,9 @@
 #!/usr/bin/python
-# Filename : crawl.py
+# 
+# filename: crawl.py
+# author: tsui(tsui.uestc@gmail.com)
+# date: 2013-01-05
+#
 import string
 import urllib2
 from sgmllib import SGMLParser
