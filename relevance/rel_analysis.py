@@ -38,40 +38,44 @@ for index in range(1,18):
   resultname.append(tmp_result_name)
 i = 0
 for data_name_item in dataname:
-    #print item
-    i+=1
-    file_data = open(data_name_item)
-    file_result = open(resultname[i],'w')
-    #temp vars
-    line_data = []
-    tic_tmp = []
+  #print data_name_item
+  #print resultname[i]
+  i+=1
+  file_data = open(data_name_item)
+  file_result = open(resultname[i],'w')
+  #temp vars
+  line_data = []
+  tic_tmp = []
 
-    #read data
-    try:
-      while True:
-        line = file_data.readline()
-        if len(line) == 0: # Zero length indicates EOF
-          break
-        line = line.replace('\r', '')
-        line = line.replace('\n', '')
-        line = line.strip()
-        line_data.append(line)
+  #read data
+  try:
+    while True:
+      line = file_data.readline()
+      if len(line) == 0: # Zero length indicates EOF
+        break
+      line = line.replace('\r', '')
+      line = line.replace('\n', '')
+      line = line.strip()
+      line_data.append(line)
 
-      #for item in line_data:
-      #   print item
-      #tic_tmp = line_data[0].split('	')
-      #print tic_tmp[0]
-      #print tic_tmp[1]
+    #for item in line_data:
+    #   print item
+    #tic_tmp = line_data[0].split('	')
+    #print tic_tmp[0]
+    #print tic_tmp[1]
 
-      for tic_item in line_tic:
-        for data_item in line_data:
-          tic_tmp = []
-          tic_tmp = data_item.split('	')
-          if(len(tic_tmp) == 2):
-	    continue
-          if(tic_item == tic_tmp[0]):
-	    print data_item
-	    file_result.write("%s" % data_item)
-    finally:
-      file_data.close()
-      file_result.close()
+    for tic_item in line_tic:
+      for data_item in line_data:
+        tic_tmp = []
+        tic_tmp = data_item.split('	')
+        if(len(tic_tmp) == 2):
+          continue
+        if(tic_item == tic_tmp[0]):
+          print data_item
+	  file_result.write("%s\r\n" % data_item)
+  finally:
+    file_data.close()
+    file_result.close()
+
+  #result index plus 1
+  i+=1
