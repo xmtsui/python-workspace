@@ -37,12 +37,13 @@ for index in range(1,18):
   dataname.append(tmp_data_name)
   resultname.append(tmp_result_name)
 i = 0
-for data_name_item in dataname:
-  #print data_name_item
+#for data_name_item in dataname:
+for i in range(5,17):
+  #print dataname[i]
   #print i
   #print resultname[i]
   #i+=1
-  file_data = open(data_name_item)
+  file_data = open(dataname[i])
   file_result = open(resultname[i],'w')
   #temp vars
   line_data = []
@@ -66,14 +67,20 @@ for data_name_item in dataname:
     #print tic_tmp[1]
 
     for tic_item in line_tic:
+      flag = 0
       for data_item in line_data:
         tic_tmp = []
         tic_tmp = data_item.split('	')
-        if(len(tic_tmp) == 2):
-          continue
-        if(tic_item == tic_tmp[0]):
-          print data_item
-	  file_result.write("%s\r\n" % data_item)
+	if(flag != 2):
+	  if(len(tic_tmp) == 2):
+            continue
+          if(tic_item == tic_tmp[0]):
+            flag = 1
+            print data_item
+	    file_result.write("%s\r\n" % data_item)
+	  if(flag == 1):
+            if(tic_item != tic_tmp[0]):
+              flag = 2
   finally:
     file_data.close()
     file_result.close()
