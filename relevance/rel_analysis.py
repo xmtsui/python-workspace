@@ -39,8 +39,9 @@ for index in range(1,18):
 i = 0
 for data_name_item in dataname:
   #print data_name_item
+  #print i
   #print resultname[i]
-  i+=1
+  #i+=1
   file_data = open(data_name_item)
   file_result = open(resultname[i],'w')
   #temp vars
