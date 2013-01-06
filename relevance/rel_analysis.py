@@ -36,12 +36,12 @@ for index in range(1,18):
   tmp_result_name = "%s%d%s" % (result,index,last)
   dataname.append(tmp_data_name)
   resultname.append(tmp_result_name)
+i = 0
 for data_name_item in dataname:
     #print item
+    i+=1
     file_data = open(data_name_item)
-  for result_name_item in resultname:
-    #print item 
-    file_result = open(result_name_item,'w')
+    file_result = open(resultname[i],'w')
     #temp vars
     line_data = []
     tic_tmp = []
