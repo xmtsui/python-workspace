@@ -10,13 +10,7 @@ from sgmllib import SGMLParser
 
 #Open files
 file_tic = open('ticker.txt')
-file_data = open('data.txt')
-
-#temp vars
 line_tic = []
-line_data = []
-tic_tmp = []
-
 #read ticker
 try:
   while True:
@@ -32,32 +26,52 @@ try:
 finally:
   file_tic.close( )
 
-#read data
-try:
-  while True:
-    line = file_data.readline()
-    if len(line) == 0: # Zero length indicates EOF
-      break
-    line = line.replace('\r', '')
-    line = line.replace('\n', '')
-    line = line.strip()
-    line_data.append(line)
-
-  #for item in line_data:
-  #   print item
-  #tic_tmp = line_data[0].split('	')
-  #print tic_tmp[0]
-  #print tic_tmp[1]
-
-finally:
-  file_data.close()
-  file_tic.close()
-
-for tic_item in line_tic:
-  for data_item in line_data:
+data = "data"
+result = "result"
+last = ".txt"
+dataname = []
+resultname = []
+for index in range(1,18):
+  tmp_data_name = "%s%d%s" % (data,index,last)
+  tmp_result_name = "%s%d%s" % (result,index,last)
+  dataname.append(tmp_data_name)
+  resultname.append(tmp_result_name)
+for data_name_item in dataname:
+    #print item
+    file_data = open(data_name_item)
+  for result_name_item in resultname:
+    #print item 
+    file_result = open(result_name_item,'w')
+    #temp vars
+    line_data = []
     tic_tmp = []
-    tic_tmp = data_item.split('	')
-    if(len(tic_tmp) == 2):
-      continue
-    if(tic_item == tic_tmp[0]):
-      print data_item
+
+    #read data
+    try:
+      while True:
+        line = file_data.readline()
+        if len(line) == 0: # Zero length indicates EOF
+          break
+        line = line.replace('\r', '')
+        line = line.replace('\n', '')
+        line = line.strip()
+        line_data.append(line)
+
+      #for item in line_data:
+      #   print item
+      #tic_tmp = line_data[0].split('	')
+      #print tic_tmp[0]
+      #print tic_tmp[1]
+
+    finally:
+      file_data.close()
+
+    for tic_item in line_tic:
+      for data_item in line_data:
+        tic_tmp = []
+        tic_tmp = data_item.split('	')
+        if(len(tic_tmp) == 2):
+	  continue
+        if(tic_item == tic_tmp[0]):
+	  print data_item
+	  file_result.write("%s" % data_item)
