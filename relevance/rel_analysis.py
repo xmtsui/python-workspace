@@ -57,7 +57,7 @@ for tic_item in line_tic:
   for data_item in line_data:
     tic_tmp = []
     tic_tmp = data_item.split('	')
-    if(len(tic_tmp) == 2)
+    if(len(tic_tmp) == 2):
       continue
     if(tic_item == tic_tmp[0]):
       print data_item
