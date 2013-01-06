@@ -37,8 +37,8 @@ for index in range(1,18):
   dataname.append(tmp_data_name)
   resultname.append(tmp_result_name)
 for data_name_item in dataname:
-    #print item
-    file_data = open(data_name_item)
+  #print item
+  file_data = open(data_name_item)
   for result_name_item in resultname:
     #print item 
     file_result = open(result_name_item,'w')
@@ -71,7 +71,7 @@ for data_name_item in dataname:
 	    continue
           if(tic_item == tic_tmp[0]):
 	    print data_item
-	    file_result.write("%s" % data_item)
+	    file_result.write("%s\r\n" % data_item)
     finally:
       file_data.close()
       file_result.close()
