@@ -35,12 +35,17 @@ try:
         date_split = date.split('/')
         #print date_split[0], date_split[1]
         year = date_split[0]
+	year_ = string.atoi(date_split[0])
         month = string.atoi(date_split[1])
 	if month == 12:
+	  print '%s/%d	%s	%s' % (year, month, line_word[i+1], line_word[i+2])
+	  print '%s/%d	%s	%s' % (year_+1, month+1-12, line_word[i+1], line_word[i+2])
+	  print '%s/%d	%s	%s' % (year_+1, month+2-12, line_word[i+1], line_word[i+2])
 	  continue
 	elif month == 11:
 	  print '%s/%d	%s	%s' % (year, month, line_word[i+1], line_word[i+2])
 	  print '%s/%d	%s	%s' % (year, month+1, line_word[i+1], line_word[i+2])
+	  print '%s/%d	%s	%s' % (year_+1, month+2-12, line_word[i+1], line_word[i+2])
 	else:  
 	  #print 'year', year, 'month', month
 	  #print 'year', year, 'month+1', month+1
@@ -50,7 +55,7 @@ try:
           print '%s/%d	%s	%s' % (year, month+2, line_word[i+1], line_word[i+2])
           #print line_word[i+1], line_word[i+2] 
       i = i+1	
-      
+
   #写入结果文档
   #for item in line_temp:
    # file_write.write("%s" % item)
