@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<positionRank>
+
+	<data  Text="IF1304                        " Value="0" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>1</rank>
+		<shortname>兴业期货    </shortname>
+		<volume>133968</volume>
+		<varVolume>-27018</varVolume>
+		<partyid>0102      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="1" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>1</rank>
+		<shortname>国泰君安    </shortname>
+		<volume>5210</volume>
+		<varVolume>258</varVolume>
+		<partyid>0001      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="2" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>1</rank>
+		<shortname>中证期货    </shortname>
+		<volume>7876</volume>
+		<varVolume>1034</varVolume>
+		<partyid>0018      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="0" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>2</rank>
+		<shortname>华泰长城    </shortname>
+		<volume>127312</volume>
+		<varVolume>-9056</varVolume>
+		<partyid>0011      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="1" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>2</rank>
+		<shortname>光大期货    </shortname>
+		<volume>3705</volume>
+		<varVolume>-251</varVolume>
+		<partyid>0007      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="2" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>2</rank>
+		<shortname>国泰君安    </shortname>
+		<volume>6685</volume>
+		<varVolume>160</varVolume>
+		<partyid>0001      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="0" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>3</rank>
+		<shortname>国泰君安    </shortname>
+		<volume>126608</volume>
+		<varVolume>-13586</varVolume>
+		<partyid>0001      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="1" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>3</rank>
+		<shortname>广发期货    </shortname>
+		<volume>2997</volume>
+		<varVolume>-245</varVolume>
+		<partyid>0016      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="2" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>3</rank>
+		<shortname>中粮期货    </shortname>
+		<volume>5196</volume>
+		<varVolume>75</varVolume>
+		<partyid>0010      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="0" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>4</rank>
+		<shortname>光大期货    </shortname>
+		<volume>92098</volume>
+		<varVolume>-18609</varVolume>
+		<partyid>0007      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="1" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>4</rank>
+		<shortname>南华期货    </shortname>
+		<volume>2974</volume>
+		<varVolume>218</varVolume>
+		<partyid>0002      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="2" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>4</rank>
+		<shortname>海通期货    </shortname>
+		<volume>4116</volume>
+		<varVolume>-58</varVolume>
+		<partyid>0133      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="0" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>5</rank>
+		<shortname>广发期货    </shortname>
+		<volume>85316</volume>
+		<varVolume>-30162</varVolume>
+		<partyid>0016      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="1" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>5</rank>
+		<shortname>华泰长城    </shortname>
+		<volume>2659</volume>
+		<varVolume>77</varVolume>
+		<partyid>0011      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="2" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>5</rank>
+		<shortname>华泰长城    </shortname>
+		<volume>3558</volume>
+		<varVolume>-281</varVolume>
+		<partyid>0011      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="0" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>6</rank>
+		<shortname>海通期货    </shortname>
+		<volume>84862</volume>
+		<varVolume>-15505</varVolume>
+		<partyid>0133      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="1" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>6</rank>
+		<shortname>银河期货    </shortname>
+		<volume>2559</volume>
+		<varVolume>-206</varVolume>
+		<partyid>0109      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="2" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>6</rank>
+		<shortname>广发期货    </shortname>
+		<volume>3178</volume>
+		<varVolume>-29</varVolume>
+		<partyid>0016      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="0" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>7</rank>
+		<shortname>南华期货    </shortname>
+		<volume>56361</volume>
+		<varVolume>-8588</varVolume>
+		<partyid>0002      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="1" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>7</rank>
+		<shortname>中证期货    </shortname>
+		<volume>2299</volume>
+		<varVolume>540</varVolume>
+		<partyid>0018      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="2" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>7</rank>
+		<shortname>南华期货    </shortname>
+		<volume>2519</volume>
+		<varVolume>-137</varVolume>
+		<partyid>0002      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="0" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>8</rank>
+		<shortname>浙商期货    </shortname>
+		<volume>52325</volume>
+		<varVolume>-7014</varVolume>
+		<partyid>0009      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="1" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>8</rank>
+		<shortname>鲁证期货    </shortname>
+		<volume>2125</volume>
+		<varVolume>-107</varVolume>
+		<partyid>0006      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="2" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>8</rank>
+		<shortname>光大期货    </shortname>
+		<volume>2096</volume>
+		<varVolume>127</varVolume>
+		<partyid>0007      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="0" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>9</rank>
+		<shortname>中证期货    </shortname>
+		<volume>50764</volume>
+		<varVolume>-10808</varVolume>
+		<partyid>0018      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="1" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>9</rank>
+		<shortname>永安期货    </shortname>
+		<volume>2088</volume>
+		<varVolume>364</varVolume>
+		<partyid>0003      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="2" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>9</rank>
+		<shortname>中信建投    </shortname>
+		<volume>1504</volume>
+		<varVolume>-20</varVolume>
+		<partyid>0115      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="0" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>10</rank>
+		<shortname>申银万国    </shortname>
+		<volume>49757</volume>
+		<varVolume>-8910</varVolume>
+		<partyid>0131      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="1" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>10</rank>
+		<shortname>海通期货    </shortname>
+		<volume>1921</volume>
+		<varVolume>-158</varVolume>
+		<partyid>0133      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="2" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>10</rank>
+		<shortname>鲁证期货    </shortname>
+		<volume>1455</volume>
+		<varVolume>40</varVolume>
+		<partyid>0006      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="0" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>11</rank>
+		<shortname>鲁证期货    </shortname>
+		<volume>42429</volume>
+		<varVolume>-3152</varVolume>
+		<partyid>0006      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="1" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>11</rank>
+		<shortname>申银万国    </shortname>
+		<volume>1779</volume>
+		<varVolume>457</varVolume>
+		<partyid>0131      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="2" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>11</rank>
+		<shortname>国都期货    </shortname>
+		<volume>1450</volume>
+		<varVolume>-10</varVolume>
+		<partyid>0130      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="0" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>12</rank>
+		<shortname>银河期货    </shortname>
+		<volume>42357</volume>
+		<varVolume>-6675</varVolume>
+		<partyid>0109      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="1" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>12</rank>
+		<shortname>国信期货    </shortname>
+		<volume>1590</volume>
+		<varVolume>309</varVolume>
+		<partyid>0113      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="2" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>12</rank>
+		<shortname>申银万国    </shortname>
+		<volume>1385</volume>
+		<varVolume>84</varVolume>
+		<partyid>0131      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="0" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>13</rank>
+		<shortname>上海东证    </shortname>
+		<volume>37232</volume>
+		<varVolume>4202</varVolume>
+		<partyid>0156      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="1" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>13</rank>
+		<shortname>信达期货    </shortname>
+		<volume>1550</volume>
+		<varVolume>-174</varVolume>
+		<partyid>0017      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="2" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>13</rank>
+		<shortname>金瑞期货    </shortname>
+		<volume>1346</volume>
+		<varVolume>335</varVolume>
+		<partyid>0019      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="0" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>14</rank>
+		<shortname>永安期货    </shortname>
+		<volume>33715</volume>
+		<varVolume>-1374</varVolume>
+		<partyid>0003      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="1" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>14</rank>
+		<shortname>浙商期货    </shortname>
+		<volume>1476</volume>
+		<varVolume>-183</varVolume>
+		<partyid>0009      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="2" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>14</rank>
+		<shortname>大华期货    </shortname>
+		<volume>1336</volume>
+		<varVolume>95</varVolume>
+		<partyid>0145      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="0" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>15</rank>
+		<shortname>招商期货    </shortname>
+		<volume>31626</volume>
+		<varVolume>1655</varVolume>
+		<partyid>0136      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="1" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>15</rank>
+		<shortname>安信期货    </shortname>
+		<volume>1459</volume>
+		<varVolume>-128</varVolume>
+		<partyid>0150      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="2" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>15</rank>
+		<shortname>长江期货    </shortname>
+		<volume>1191</volume>
+		<varVolume>48</varVolume>
+		<partyid>0116      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="0" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>16</rank>
+		<shortname>中投天琪    </shortname>
+		<volume>27194</volume>
+		<varVolume>-3500</varVolume>
+		<partyid>0168      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="1" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>16</rank>
+		<shortname>招商期货    </shortname>
+		<volume>1422</volume>
+		<varVolume>-233</varVolume>
+		<partyid>0136      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="2" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>16</rank>
+		<shortname>国元海勤    </shortname>
+		<volume>1153</volume>
+		<varVolume>155</varVolume>
+		<partyid>0171      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="0" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>17</rank>
+		<shortname>渤海期货    </shortname>
+		<volume>25331</volume>
+		<varVolume>-1126</varVolume>
+		<partyid>0126      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="1" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>17</rank>
+		<shortname>中投天琪    </shortname>
+		<volume>1235</volume>
+		<varVolume>113</varVolume>
+		<partyid>0168      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="2" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>17</rank>
+		<shortname>银河期货    </shortname>
+		<volume>1121</volume>
+		<varVolume>-137</varVolume>
+		<partyid>0109      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="0" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>18</rank>
+		<shortname>中信建投    </shortname>
+		<volume>19600</volume>
+		<varVolume>-7812</varVolume>
+		<partyid>0115      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="1" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>18</rank>
+		<shortname>上海东证    </shortname>
+		<volume>1232</volume>
+		<varVolume>-207</varVolume>
+		<partyid>0156      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="2" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>18</rank>
+		<shortname>国信期货    </shortname>
+		<volume>1017</volume>
+		<varVolume>-182</varVolume>
+		<partyid>0113      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="0" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>19</rank>
+		<shortname>信达期货    </shortname>
+		<volume>19196</volume>
+		<varVolume>-2851</varVolume>
+		<partyid>0017      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="1" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>19</rank>
+		<shortname>中国国际    </shortname>
+		<volume>1229</volume>
+		<varVolume>84</varVolume>
+		<partyid>0159      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="2" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>19</rank>
+		<shortname>浙商期货    </shortname>
+		<volume>963</volume>
+		<varVolume>36</varVolume>
+		<partyid>0009      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="0" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>20</rank>
+		<shortname>金瑞期货    </shortname>
+		<volume>19151</volume>
+		<varVolume>-1781</varVolume>
+		<partyid>0019      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="1" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>20</rank>
+		<shortname>中信建投    </shortname>
+		<volume>1141</volume>
+		<varVolume>178</varVolume>
+		<partyid>0115      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1304                        " Value="2" >
+		<instrumentId>IF1304                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>20</rank>
+		<shortname>兴业期货    </shortname>
+		<volume>950</volume>
+		<varVolume>158</varVolume>
+		<partyid>0102      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="0" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>1</rank>
+		<shortname>华泰长城    </shortname>
+		<volume>14812</volume>
+		<varVolume>-3798</varVolume>
+		<partyid>0011      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="1" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>1</rank>
+		<shortname>国泰君安    </shortname>
+		<volume>5790</volume>
+		<varVolume>59</varVolume>
+		<partyid>0001      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="2" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>1</rank>
+		<shortname>国泰君安    </shortname>
+		<volume>4911</volume>
+		<varVolume>53</varVolume>
+		<partyid>0001      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="0" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>2</rank>
+		<shortname>经易期货    </shortname>
+		<volume>4608</volume>
+		<varVolume>-75</varVolume>
+		<partyid>0101      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="1" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>2</rank>
+		<shortname>华泰长城    </shortname>
+		<volume>1646</volume>
+		<varVolume>136</varVolume>
+		<partyid>0011      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="2" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>2</rank>
+		<shortname>招商期货    </shortname>
+		<volume>3944</volume>
+		<varVolume>-17</varVolume>
+		<partyid>0136      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="0" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>3</rank>
+		<shortname>海通期货    </shortname>
+		<volume>3788</volume>
+		<varVolume>1352</varVolume>
+		<partyid>0133      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="1" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>3</rank>
+		<shortname>广发期货    </shortname>
+		<volume>1368</volume>
+		<varVolume>137</varVolume>
+		<partyid>0016      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="2" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>3</rank>
+		<shortname>海通期货    </shortname>
+		<volume>3577</volume>
+		<varVolume>28</varVolume>
+		<partyid>0133      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="0" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>4</rank>
+		<shortname>广发期货    </shortname>
+		<volume>3291</volume>
+		<varVolume>-859</varVolume>
+		<partyid>0016      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="1" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>4</rank>
+		<shortname>海通期货    </shortname>
+		<volume>1317</volume>
+		<varVolume>-138</varVolume>
+		<partyid>0133      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="2" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>4</rank>
+		<shortname>中证期货    </shortname>
+		<volume>3430</volume>
+		<varVolume>-1</varVolume>
+		<partyid>0018      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="0" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>5</rank>
+		<shortname>银河期货    </shortname>
+		<volume>2497</volume>
+		<varVolume>-52</varVolume>
+		<partyid>0109      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="1" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>5</rank>
+		<shortname>南华期货    </shortname>
+		<volume>1176</volume>
+		<varVolume>132</varVolume>
+		<partyid>0002      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="2" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>5</rank>
+		<shortname>广发期货    </shortname>
+		<volume>2264</volume>
+		<varVolume>162</varVolume>
+		<partyid>0016      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="0" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>6</rank>
+		<shortname>宏源期货    </shortname>
+		<volume>2131</volume>
+		<varVolume>-406</varVolume>
+		<partyid>0137      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="1" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>6</rank>
+		<shortname>中证期货    </shortname>
+		<volume>1049</volume>
+		<varVolume>-16</varVolume>
+		<partyid>0018      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="2" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>6</rank>
+		<shortname>华泰长城    </shortname>
+		<volume>1970</volume>
+		<varVolume>58</varVolume>
+		<partyid>0011      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="0" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>7</rank>
+		<shortname>浙江中大    </shortname>
+		<volume>2024</volume>
+		<varVolume>-216</varVolume>
+		<partyid>0146      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="1" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>7</rank>
+		<shortname>光大期货    </shortname>
+		<volume>916</volume>
+		<varVolume>-7</varVolume>
+		<partyid>0007      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="2" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>7</rank>
+		<shortname>光大期货    </shortname>
+		<volume>1170</volume>
+		<varVolume>159</varVolume>
+		<partyid>0007      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="0" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>8</rank>
+		<shortname>南华期货    </shortname>
+		<volume>1845</volume>
+		<varVolume>-419</varVolume>
+		<partyid>0002      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="1" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>8</rank>
+		<shortname>永安期货    </shortname>
+		<volume>883</volume>
+		<varVolume>39</varVolume>
+		<partyid>0003      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="2" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>8</rank>
+		<shortname>金瑞期货    </shortname>
+		<volume>1055</volume>
+		<varVolume>-56</varVolume>
+		<partyid>0019      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="0" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>9</rank>
+		<shortname>国泰君安    </shortname>
+		<volume>1754</volume>
+		<varVolume>-961</varVolume>
+		<partyid>0001      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="1" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>9</rank>
+		<shortname>银河期货    </shortname>
+		<volume>832</volume>
+		<varVolume>-29</varVolume>
+		<partyid>0109      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="2" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>9</rank>
+		<shortname>上海东证    </shortname>
+		<volume>870</volume>
+		<varVolume>-27</varVolume>
+		<partyid>0156      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="0" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>10</rank>
+		<shortname>申银万国    </shortname>
+		<volume>1744</volume>
+		<varVolume>-64</varVolume>
+		<partyid>0131      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="1" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>10</rank>
+		<shortname>招商期货    </shortname>
+		<volume>790</volume>
+		<varVolume>21</varVolume>
+		<partyid>0136      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="2" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>10</rank>
+		<shortname>鲁证期货    </shortname>
+		<volume>630</volume>
+		<varVolume>17</varVolume>
+		<partyid>0006      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="0" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>11</rank>
+		<shortname>招商期货    </shortname>
+		<volume>1466</volume>
+		<varVolume>-275</varVolume>
+		<partyid>0136      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="1" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>11</rank>
+		<shortname>中国国际    </shortname>
+		<volume>766</volume>
+		<varVolume>-21</varVolume>
+		<partyid>0159      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="2" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>11</rank>
+		<shortname>长江期货    </shortname>
+		<volume>461</volume>
+		<varVolume>-7</varVolume>
+		<partyid>0116      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="0" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>12</rank>
+		<shortname>光大期货    </shortname>
+		<volume>1290</volume>
+		<varVolume>-831</varVolume>
+		<partyid>0007      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="1" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>12</rank>
+		<shortname>北京中期    </shortname>
+		<volume>725</volume>
+		<varVolume>9</varVolume>
+		<partyid>0167      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="2" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>12</rank>
+		<shortname>银河期货    </shortname>
+		<volume>440</volume>
+		<varVolume>4</varVolume>
+		<partyid>0109      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="0" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>13</rank>
+		<shortname>浙商期货    </shortname>
+		<volume>1223</volume>
+		<varVolume>-936</varVolume>
+		<partyid>0009      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="1" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>13</rank>
+		<shortname>浙商期货    </shortname>
+		<volume>718</volume>
+		<varVolume>11</varVolume>
+		<partyid>0009      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="2" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>13</rank>
+		<shortname>南华期货    </shortname>
+		<volume>418</volume>
+		<varVolume>-1</varVolume>
+		<partyid>0002      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="0" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>14</rank>
+		<shortname>上海东证    </shortname>
+		<volume>1186</volume>
+		<varVolume>366</varVolume>
+		<partyid>0156      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="1" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>14</rank>
+		<shortname>申银万国    </shortname>
+		<volume>659</volume>
+		<varVolume>-21</varVolume>
+		<partyid>0131      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="2" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>14</rank>
+		<shortname>国金期货    </shortname>
+		<volume>412</volume>
+		<varVolume>108</varVolume>
+		<partyid>0129      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="0" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>15</rank>
+		<shortname>兴业期货    </shortname>
+		<volume>1185</volume>
+		<varVolume>-614</varVolume>
+		<partyid>0102      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="1" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>15</rank>
+		<shortname>金瑞期货    </shortname>
+		<volume>658</volume>
+		<varVolume>-7</varVolume>
+		<partyid>0019      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="2" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>15</rank>
+		<shortname>宝城期货    </shortname>
+		<volume>380</volume>
+		<varVolume>178</varVolume>
+		<partyid>0110      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="0" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>16</rank>
+		<shortname>永安期货    </shortname>
+		<volume>1104</volume>
+		<varVolume>51</varVolume>
+		<partyid>0003      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="1" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>16</rank>
+		<shortname>国投中谷    </shortname>
+		<volume>582</volume>
+		<varVolume>4</varVolume>
+		<partyid>0122      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="2" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>16</rank>
+		<shortname>兴业期货    </shortname>
+		<volume>314</volume>
+		<varVolume>12</varVolume>
+		<partyid>0102      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="0" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>17</rank>
+		<shortname>国信期货    </shortname>
+		<volume>1096</volume>
+		<varVolume>-568</varVolume>
+		<partyid>0113      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="1" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>17</rank>
+		<shortname>鲁证期货    </shortname>
+		<volume>459</volume>
+		<varVolume>29</varVolume>
+		<partyid>0006      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="2" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>17</rank>
+		<shortname>和融期货    </shortname>
+		<volume>285</volume>
+		<varVolume>0</varVolume>
+		<partyid>0120      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="0" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>18</rank>
+		<shortname>新湖期货    </shortname>
+		<volume>1058</volume>
+		<varVolume>-231</varVolume>
+		<partyid>0152      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="1" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>18</rank>
+		<shortname>兴业期货    </shortname>
+		<volume>387</volume>
+		<varVolume>21</varVolume>
+		<partyid>0102      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="2" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>18</rank>
+		<shortname>安信期货    </shortname>
+		<volume>281</volume>
+		<varVolume>-2</varVolume>
+		<partyid>0150      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="0" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>19</rank>
+		<shortname>鲁证期货    </shortname>
+		<volume>1042</volume>
+		<varVolume>63</varVolume>
+		<partyid>0006      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="1" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>19</rank>
+		<shortname>北京首创    </shortname>
+		<volume>380</volume>
+		<varVolume>15</varVolume>
+		<partyid>0112      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="2" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>19</rank>
+		<shortname>平安期货    </shortname>
+		<volume>261</volume>
+		<varVolume>74</varVolume>
+		<partyid>0105      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="0" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>0</dataTypeId>
+		<rank>20</rank>
+		<shortname>中证期货    </shortname>
+		<volume>985</volume>
+		<varVolume>-593</varVolume>
+		<partyid>0018      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="1" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>1</dataTypeId>
+		<rank>20</rank>
+		<shortname>东吴期货    </shortname>
+		<volume>366</volume>
+		<varVolume>26</varVolume>
+		<partyid>0111      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+	<data  Text="IF1306                        " Value="2" >
+		<instrumentId>IF1306                        </instrumentId>
+		<tradingDay>20130403</tradingDay>
+		<dataTypeId>2</dataTypeId>
+		<rank>20</rank>
+		<shortname>永安期货    </shortname>
+		<volume>256</volume>
+		<varVolume>1</varVolume>
+		<partyid>0003      </partyid>
+        <productid>IF      </productid>
+	</data>
+
+
+</positionRank>
